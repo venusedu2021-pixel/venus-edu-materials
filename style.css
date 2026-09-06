@@ -1,0 +1,270 @@
+:root {
+  --accent: #6d28d9;
+  --accent-light: #ede9fe;
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --text: #1e1b2e;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--accent);
+  color: #fff;
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.brand {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+#search {
+  width: 100%;
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: none;
+  font-size: 0.95rem;
+  outline: none;
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 16px;
+  background: #fff;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 84px;
+  z-index: 9;
+  overflow-x: auto;
+}
+
+.back-btn {
+  flex-shrink: 0;
+  background: var(--accent-light);
+  color: var(--accent);
+  border: none;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.back-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  overflow-x: auto;
+  white-space: nowrap;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.breadcrumb .crumb {
+  cursor: pointer;
+  padding: 4px 6px;
+  border-radius: 6px;
+}
+
+.breadcrumb .crumb:last-child {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.breadcrumb .crumb:hover {
+  background: var(--accent-light);
+  color: var(--accent);
+}
+
+.breadcrumb .sep {
+  color: #c7c2d9;
+}
+
+.content {
+  padding: 16px;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.loading, .empty {
+  text-align: center;
+  color: var(--muted);
+  padding: 40px 0;
+}
+
+.cover {
+  width: 100%;
+  max-height: 260px;
+  object-fit: cover;
+  border-radius: 14px;
+  margin-bottom: 16px;
+  display: block;
+}
+
+.folder-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.folder-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 18px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.1s, box-shadow 0.1s;
+}
+
+.folder-card:active {
+  transform: scale(0.97);
+}
+
+.folder-card:hover {
+  box-shadow: 0 4px 14px rgba(109, 40, 217, 0.12);
+  border-color: var(--accent);
+}
+
+.folder-card .icon {
+  font-size: 2rem;
+}
+
+.folder-card .name {
+  font-size: 0.85rem;
+  font-weight: 600;
+  word-break: break-word;
+}
+
+.file-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.file-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px 14px;
+  text-decoration: none;
+  color: var(--text);
+}
+
+.file-row:hover {
+  border-color: var(--accent);
+}
+
+.file-row .icon {
+  font-size: 1.3rem;
+  flex-shrink: 0;
+}
+
+.file-row .name {
+  flex: 1;
+  font-size: 0.92rem;
+  font-weight: 500;
+  word-break: break-word;
+}
+
+.file-row .name .path {
+  font-size: 0.75rem;
+  color: var(--muted);
+  font-weight: 400;
+  margin-top: 2px;
+}
+
+.file-row .size {
+  font-size: 0.78rem;
+  color: var(--muted);
+  flex-shrink: 0;
+}
+
+.file-row .dl {
+  flex-shrink: 0;
+  color: var(--accent);
+  font-size: 1.1rem;
+}
+
+.password-gate {
+  text-align: center;
+  padding: 40px 16px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+}
+
+.password-gate .lock-icon {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.password-gate input {
+  display: block;
+  margin: 16px auto 10px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  font-size: 0.95rem;
+  width: 220px;
+  max-width: 80%;
+  text-align: center;
+}
+
+.password-gate button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 22px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.password-gate .error {
+  color: #dc2626;
+  font-size: 0.85rem;
+  min-height: 1.2em;
+  margin-top: 8px;
+}
+
+.footer {
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.78rem;
+  padding: 24px 16px 32px;
+}
