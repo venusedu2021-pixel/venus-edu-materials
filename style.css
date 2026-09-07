@@ -227,6 +227,7 @@ html, body {
 }
 
 .view-btn {
+  display: inline-block;
   background: var(--accent-light);
   color: var(--accent);
   border: none;
@@ -235,6 +236,7 @@ html, body {
   font-size: 0.78rem;
   font-weight: 600;
   cursor: pointer;
+  text-decoration: none;
   white-space: nowrap;
 }
 
