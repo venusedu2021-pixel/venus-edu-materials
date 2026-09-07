@@ -103,13 +103,42 @@ function renderPasswordGate(node, names) {
 }
 
 function fileRow(f) {
-  const row = document.createElement("a");
-  row.className = "file-row";
-  row.href = f.url;
-  row.target = "_blank";
-  row.rel = "noopener";
+  const row = document.createElement("div");
   const pathHtml = f.pathLabel ? `<div class="path">${f.pathLabel}</div>` : "";
-  row.innerHTML = `<span class="icon">${emojiFor(f)}</span><span class="name">${f.name}${pathHtml}</span><span class="size">${humanSize(f.size_mb)}</span><span class="dl">⬇</span>`;
+  const header = `<span class="icon">${emojiFor(f)}</span><span class="name">${f.name}${pathHtml}</span><span class="size">${humanSize(f.size_mb)}</span>`;
+
+  if (f.kind === "audio" || f.kind === "video" || f.kind === "photo") {
+    // Audio/video/rasm - to'g'ridan-to'g'ri shu sahifada eshitish/ko'rish mumkin, yuklab olish shart emas
+    row.className = "file-row file-row-media";
+    let mediaHtml = "";
+    if (f.kind === "audio") mediaHtml = `<audio controls preload="none" src="${f.url}"></audio>`;
+    if (f.kind === "video") mediaHtml = `<video controls preload="none" src="${f.url}"></video>`;
+    if (f.kind === "photo") mediaHtml = `<img class="inline-photo" src="${f.url}" alt="${f.name}">`;
+    row.innerHTML = `<div class="row-header">${header}</div>${mediaHtml}`;
+    return row;
+  }
+
+  // Hujjat (PDF va h.k.) - "Ko'rish" tugmasi shu yerning o'zida (yangi oynada)
+  // ochadi, yuklab olish esa alohida ⬇ tugmasi orqali.
+  row.className = "file-row";
+  row.innerHTML = `${header}<span class="actions"><button class="view-btn" type="button">👁 Ko'rish</button><a class="dl-link" href="${f.url}" target="_blank" rel="noopener" title="Yuklab olish">⬇</a></span>`;
+  const viewBtn = row.querySelector(".view-btn");
+  viewBtn.addEventListener("click", async () => {
+    const original = viewBtn.textContent;
+    viewBtn.textContent = "Yuklanmoqda...";
+    viewBtn.disabled = true;
+    try {
+      const res = await fetch(f.url);
+      const blob = await res.blob();
+      const blobUrl = URL.createObjectURL(blob);
+      window.open(blobUrl, "_blank");
+    } catch (e) {
+      window.open(f.url, "_blank");
+    } finally {
+      viewBtn.textContent = original;
+      viewBtn.disabled = false;
+    }
+  });
   return row;
 }
 
