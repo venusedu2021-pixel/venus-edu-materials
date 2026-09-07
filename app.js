@@ -119,25 +119,16 @@ function fileRow(f) {
   }
 
   // Hujjat (PDF va h.k.) - "Ko'rish" tugmasi shu yerning o'zida (yangi oynada)
-  // ochadi, yuklab olish esa alohida ⬇ tugmasi orqali.
+  // ochadi (Google Docs Viewer orqali - yuklab olish shart emas), yuklab
+  // olish esa alohida ⬇ tugmasi orqali.
   row.className = "file-row";
   row.innerHTML = `${header}<span class="actions"><button class="view-btn" type="button">👁 Ko'rish</button><a class="dl-link" href="${f.url}" target="_blank" rel="noopener" title="Yuklab olish">⬇</a></span>`;
   const viewBtn = row.querySelector(".view-btn");
-  viewBtn.addEventListener("click", async () => {
-    const original = viewBtn.textContent;
-    viewBtn.textContent = "Yuklanmoqda...";
-    viewBtn.disabled = true;
-    try {
-      const res = await fetch(f.url);
-      const blob = await res.blob();
-      const blobUrl = URL.createObjectURL(blob);
-      window.open(blobUrl, "_blank");
-    } catch (e) {
-      window.open(f.url, "_blank");
-    } finally {
-      viewBtn.textContent = original;
-      viewBtn.disabled = false;
-    }
+  viewBtn.addEventListener("click", () => {
+    // window.open darhol (hech qanday "await"dan keyin emas) chaqirilishi
+    // kerak - aks holda brauzer buni popup-blocker bilan to'sib qo'yadi.
+    const viewerUrl = "https://docs.google.com/viewer?url=" + encodeURIComponent(f.url) + "&embedded=true";
+    window.open(viewerUrl, "_blank");
   });
   return row;
 }
