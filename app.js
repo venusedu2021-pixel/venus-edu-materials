@@ -118,18 +118,14 @@ function fileRow(f) {
     return row;
   }
 
-  // Hujjat (PDF va h.k.) - "Ko'rish" tugmasi shu yerning o'zida (yangi oynada)
-  // ochadi (Google Docs Viewer orqali - yuklab olish shart emas), yuklab
-  // olish esa alohida ⬇ tugmasi orqali.
+  // Hujjat (PDF va h.k.) - "Ko'rish" havolasi Google Docs Viewer orqali
+  // yangi oynada ochadi (yuklab olish shart emas), yuklab olish esa
+  // alohida ⬇ tugmasi orqali. Bu ASL <a href> havola (JS window.open()
+  // emas) - chunki iOS Safari kabi brauzerlar dastur orqali ochilgan
+  // oynalarni ko'pincha to'sib qo'yadi, oddiy havola esa har doim ishlaydi.
+  const viewerUrl = "https://docs.google.com/viewer?url=" + encodeURIComponent(f.url) + "&embedded=true";
   row.className = "file-row";
-  row.innerHTML = `${header}<span class="actions"><button class="view-btn" type="button">👁 Ko'rish</button><a class="dl-link" href="${f.url}" target="_blank" rel="noopener" title="Yuklab olish">⬇</a></span>`;
-  const viewBtn = row.querySelector(".view-btn");
-  viewBtn.addEventListener("click", () => {
-    // window.open darhol (hech qanday "await"dan keyin emas) chaqirilishi
-    // kerak - aks holda brauzer buni popup-blocker bilan to'sib qo'yadi.
-    const viewerUrl = "https://docs.google.com/viewer?url=" + encodeURIComponent(f.url) + "&embedded=true";
-    window.open(viewerUrl, "_blank");
-  });
+  row.innerHTML = `${header}<span class="actions"><a class="view-btn" href="${viewerUrl}" target="_blank" rel="noopener">👁 Ko'rish</a><a class="dl-link" href="${f.url}" target="_blank" rel="noopener" title="Yuklab olish">⬇</a></span>`;
   return row;
 }
 
