@@ -118,14 +118,19 @@ function fileRow(f) {
     return row;
   }
 
-  // Hujjat (PDF va h.k.) - "Ko'rish" havolasi Google Docs Viewer orqali
-  // yangi oynada ochadi (yuklab olish shart emas), yuklab olish esa
-  // alohida ⬇ tugmasi orqali. Bu ASL <a href> havola (JS window.open()
-  // emas) - chunki iOS Safari kabi brauzerlar dastur orqali ochilgan
-  // oynalarni ko'pincha to'sib qo'yadi, oddiy havola esa har doim ishlaydi.
-  const viewerUrl = "https://docs.google.com/viewer?url=" + encodeURIComponent(f.url) + "&embedded=true";
+  // Hujjat (PDF va h.k.). Kichik fayllar ("inline": true) to'g'ridan-to'g'ri
+  // GitHub Pages orqali beriladi - u yerda "yuklab olishga majburlash"
+  // belgisi yo'q, shuning uchun oddiy <a href target="_blank"> havolasi
+  // barcha brauzerlarda (jumladan iOS Safari'da ham) faylni to'g'ridan-to'g'ri
+  // ochadi, hech qanday tashqi "viewer" xizmati kerak emas. Katta fayllar
+  // GitHub Releases'da qoladi - u yerda fayl har doim "yuklab olish" sifatida
+  // beriladi, shuning uchun ular uchun faqat yuklab olish tugmasi ko'rsatiladi.
   row.className = "file-row";
-  row.innerHTML = `${header}<span class="actions"><a class="view-btn" href="${viewerUrl}" target="_blank" rel="noopener">👁 Ko'rish</a><a class="dl-link" href="${f.url}" target="_blank" rel="noopener" title="Yuklab olish">⬇</a></span>`;
+  if (f.inline) {
+    row.innerHTML = `${header}<span class="actions"><a class="view-btn" href="${f.url}" target="_blank" rel="noopener">👁 Ko'rish</a><a class="dl-link" href="${f.url}" download rel="noopener" title="Yuklab olish">⬇</a></span>`;
+  } else {
+    row.innerHTML = `${header}<span class="actions"><a class="view-btn" href="${f.url}" target="_blank" rel="noopener">⬇ Yuklab olish</a></span>`;
+  }
   return row;
 }
 
