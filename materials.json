@@ -7712,6 +7712,1238 @@
       "size_mb": 0.1
      }
     ]
+   },
+   {
+    "kind": "folder",
+    "name": "Starters",
+    "password_hash": null,
+    "cover_url": null,
+    "children": [
+     {
+      "kind": "folder",
+      "name": "English worlds 1",
+      "password_hash": null,
+      "cover_url": null,
+      "children": [
+       {
+        "kind": "folder",
+        "name": "Audios",
+        "password_hash": null,
+        "cover_url": null,
+        "children": [
+         {
+          "kind": "folder",
+          "name": "English_World_1_Class_Audio_www.frenglish.ru",
+          "password_hash": null,
+          "cover_url": null,
+          "children": [
+           {
+            "kind": "folder",
+            "name": "CD1",
+            "password_hash": null,
+            "cover_url": null,
+            "children": [
+             {
+              "kind": "audio",
+              "name": "01 Трек01",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__01-01.mp3",
+              "size_mb": 1.2
+             },
+             {
+              "kind": "audio",
+              "name": "02 Трек02",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__02-02.mp3",
+              "size_mb": 0.9
+             },
+             {
+              "kind": "audio",
+              "name": "03 Трек03",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__03-03.mp3",
+              "size_mb": 0.7
+             },
+             {
+              "kind": "audio",
+              "name": "04 Трек04",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__04-04.mp3",
+              "size_mb": 1.1
+             },
+             {
+              "kind": "audio",
+              "name": "05 Трек05",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__05-05.mp3",
+              "size_mb": 1.0
+             },
+             {
+              "kind": "audio",
+              "name": "06 Трек06",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__06-06.mp3",
+              "size_mb": 1.1
+             },
+             {
+              "kind": "audio",
+              "name": "07 Трек07",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__07-07.mp3",
+              "size_mb": 1.3
+             },
+             {
+              "kind": "audio",
+              "name": "08 Трек08",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__08-08.mp3",
+              "size_mb": 1.3
+             },
+             {
+              "kind": "audio",
+              "name": "09 Трек09",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__09-09.mp3",
+              "size_mb": 2.0
+             },
+             {
+              "kind": "audio",
+              "name": "10 Трек10",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__10-10.mp3",
+              "size_mb": 2.2
+             },
+             {
+              "kind": "audio",
+              "name": "11 Трек11",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__11-11.mp3",
+              "size_mb": 2.0
+             },
+             {
+              "kind": "audio",
+              "name": "12 Трек12",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__12-12.mp3",
+              "size_mb": 1.3
+             },
+             {
+              "kind": "audio",
+              "name": "13 Трек13",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__13-13.mp3",
+              "size_mb": 1.2
+             },
+             {
+              "kind": "audio",
+              "name": "14 Трек14",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__14-14.mp3",
+              "size_mb": 1.0
+             },
+             {
+              "kind": "audio",
+              "name": "15 Трек15",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__15-15.mp3",
+              "size_mb": 1.2
+             },
+             {
+              "kind": "audio",
+              "name": "16 Трек16",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__16-16.mp3",
+              "size_mb": 1.2
+             },
+             {
+              "kind": "audio",
+              "name": "17 Трек17",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__17-17.mp3",
+              "size_mb": 1.0
+             },
+             {
+              "kind": "audio",
+              "name": "18 Трек18",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__18-18.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "19 Трек19",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__19-19.mp3",
+              "size_mb": 1.3
+             },
+             {
+              "kind": "audio",
+              "name": "20 Трек20",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__20-20.mp3",
+              "size_mb": 0.7
+             },
+             {
+              "kind": "audio",
+              "name": "21 Трек21",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__21-21.mp3",
+              "size_mb": 1.9
+             },
+             {
+              "kind": "audio",
+              "name": "22 Трек22",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__22-22.mp3",
+              "size_mb": 0.7
+             },
+             {
+              "kind": "audio",
+              "name": "23 Трек23",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__23-23.mp3",
+              "size_mb": 2.5
+             },
+             {
+              "kind": "audio",
+              "name": "24 Трек24",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__24-24.mp3",
+              "size_mb": 1.1
+             },
+             {
+              "kind": "audio",
+              "name": "25 Трек25",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__25-25.mp3",
+              "size_mb": 0.9
+             },
+             {
+              "kind": "audio",
+              "name": "26 Трек26",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__26-26.mp3",
+              "size_mb": 1.1
+             },
+             {
+              "kind": "audio",
+              "name": "27 Трек27",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__27-27.mp3",
+              "size_mb": 2.1
+             },
+             {
+              "kind": "audio",
+              "name": "28 Трек28",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__28-28.mp3",
+              "size_mb": 1.9
+             },
+             {
+              "kind": "audio",
+              "name": "29 Трек29",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__29-29.mp3",
+              "size_mb": 1.5
+             },
+             {
+              "kind": "audio",
+              "name": "30 Трек30",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__30-30.mp3",
+              "size_mb": 2.0
+             },
+             {
+              "kind": "audio",
+              "name": "31 Трек31",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__31-31.mp3",
+              "size_mb": 0.4
+             },
+             {
+              "kind": "audio",
+              "name": "32 Трек32",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__32-32.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "33 Трек33",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__33-33.mp3",
+              "size_mb": 0.7
+             },
+             {
+              "kind": "audio",
+              "name": "34 Трек34",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__34-34.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "35 Трек35",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__35-35.mp3",
+              "size_mb": 1.4
+             },
+             {
+              "kind": "audio",
+              "name": "36 Трек36",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__36-36.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "37 Трек37",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__37-37.mp3",
+              "size_mb": 0.4
+             },
+             {
+              "kind": "audio",
+              "name": "38 Трек38",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__38-38.mp3",
+              "size_mb": 1.1
+             },
+             {
+              "kind": "audio",
+              "name": "39 Трек39",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__39-39.mp3",
+              "size_mb": 1.3
+             },
+             {
+              "kind": "audio",
+              "name": "40 Трек40",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__40-40.mp3",
+              "size_mb": 1.3
+             },
+             {
+              "kind": "audio",
+              "name": "41 Трек41",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__41-41.mp3",
+              "size_mb": 2.0
+             },
+             {
+              "kind": "audio",
+              "name": "42 Трек42",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__42-42.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "43 Трек43",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__43-43.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "44 Трек44",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__44-44.mp3",
+              "size_mb": 1.1
+             },
+             {
+              "kind": "audio",
+              "name": "45 Трек45",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__45-45.mp3",
+              "size_mb": 0.8
+             },
+             {
+              "kind": "audio",
+              "name": "46 Трек46",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__46-46.mp3",
+              "size_mb": 1.2
+             },
+             {
+              "kind": "audio",
+              "name": "47 Трек47",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__47-47.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "48 Трек48",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__48-48.mp3",
+              "size_mb": 0.4
+             },
+             {
+              "kind": "audio",
+              "name": "49 Трек49",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__49-49.mp3",
+              "size_mb": 1.4
+             },
+             {
+              "kind": "audio",
+              "name": "50 Трек50",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__50-50.mp3",
+              "size_mb": 1.5
+             },
+             {
+              "kind": "audio",
+              "name": "51 Трек51",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__51-51.mp3",
+              "size_mb": 1.3
+             },
+             {
+              "kind": "audio",
+              "name": "52 Трек52",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__52-52.mp3",
+              "size_mb": 1.8
+             },
+             {
+              "kind": "audio",
+              "name": "53 Трек53",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__53-53.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "54 Трек54",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__54-54.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "55 Трек55",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__55-55.mp3",
+              "size_mb": 0.9
+             },
+             {
+              "kind": "audio",
+              "name": "56 Трек56",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__56-56.mp3",
+              "size_mb": 0.7
+             },
+             {
+              "kind": "audio",
+              "name": "57 Трек57",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__57-57.mp3",
+              "size_mb": 1.0
+             },
+             {
+              "kind": "audio",
+              "name": "58 Трек58",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__58-58.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "59 Трек59",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__59-59.mp3",
+              "size_mb": 0.7
+             },
+             {
+              "kind": "audio",
+              "name": "60 Трек60",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__60-60.mp3",
+              "size_mb": 2.0
+             },
+             {
+              "kind": "audio",
+              "name": "61 Трек61",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__61-61.mp3",
+              "size_mb": 1.6
+             },
+             {
+              "kind": "audio",
+              "name": "62 Трек62",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__62-62.mp3",
+              "size_mb": 2.2
+             },
+             {
+              "kind": "audio",
+              "name": "63 Трек63",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__63-63.mp3",
+              "size_mb": 0.8
+             },
+             {
+              "kind": "audio",
+              "name": "64 Трек64",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__64-64.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "65 Трек65",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__65-65.mp3",
+              "size_mb": 0.8
+             },
+             {
+              "kind": "audio",
+              "name": "66 Трек66",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__66-66.mp3",
+              "size_mb": 1.0
+             },
+             {
+              "kind": "audio",
+              "name": "67 Трек67",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__67-67.mp3",
+              "size_mb": 0.7
+             },
+             {
+              "kind": "audio",
+              "name": "68 Трек68",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__68-68.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "69 Трек69",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__69-69.mp3",
+              "size_mb": 0.7
+             },
+             {
+              "kind": "audio",
+              "name": "70 Трек70",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__70-70.mp3",
+              "size_mb": 1.4
+             },
+             {
+              "kind": "audio",
+              "name": "71 Трек71",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__71-71.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "72 Трек72",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__72-72.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "73 Трек73",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__73-73.mp3",
+              "size_mb": 0.9
+             },
+             {
+              "kind": "audio",
+              "name": "74 Трек74",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__74-74.mp3",
+              "size_mb": 1.7
+             },
+             {
+              "kind": "audio",
+              "name": "75 Трек75",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__75-75.mp3",
+              "size_mb": 2.5
+             },
+             {
+              "kind": "audio",
+              "name": "76 Трек76",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__76-76.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "77 Трек77",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__77-77.mp3",
+              "size_mb": 0.9
+             },
+             {
+              "kind": "audio",
+              "name": "78 Трек78",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__78-78.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "79 Трек79",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__79-79.mp3",
+              "size_mb": 1.7
+             },
+             {
+              "kind": "audio",
+              "name": "80 Трек80",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__80-80.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "81 Трек81",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__81-81.mp3",
+              "size_mb": 0.7
+             },
+             {
+              "kind": "audio",
+              "name": "82 Трек82",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__82-82.mp3",
+              "size_mb": 2.8
+             },
+             {
+              "kind": "audio",
+              "name": "83 Трек83",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD1__83-83.mp3",
+              "size_mb": 2.5
+             }
+            ]
+           },
+           {
+            "kind": "folder",
+            "name": "CD2",
+            "password_hash": null,
+            "cover_url": null,
+            "children": [
+             {
+              "kind": "audio",
+              "name": "01 Трек01",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__01-01.mp3",
+              "size_mb": 2.4
+             },
+             {
+              "kind": "audio",
+              "name": "02 Трек02",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__02-02.mp3",
+              "size_mb": 2.6
+             },
+             {
+              "kind": "audio",
+              "name": "03 Трек03",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__03-03.mp3",
+              "size_mb": 0.7
+             },
+             {
+              "kind": "audio",
+              "name": "04 Трек04",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__04-04.mp3",
+              "size_mb": 0.9
+             },
+             {
+              "kind": "audio",
+              "name": "05 Трек05",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__05-05.mp3",
+              "size_mb": 1.6
+             },
+             {
+              "kind": "audio",
+              "name": "06 Трек06",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__06-06.mp3",
+              "size_mb": 1.4
+             },
+             {
+              "kind": "audio",
+              "name": "07 Трек07",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__07-07.mp3",
+              "size_mb": 1.8
+             },
+             {
+              "kind": "audio",
+              "name": "08 Трек08",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__08-08.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "09 Трек09",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__09-09.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "10 Трек10",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__10-10.mp3",
+              "size_mb": 1.7
+             },
+             {
+              "kind": "audio",
+              "name": "11 Трек11",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__11-11.mp3",
+              "size_mb": 1.4
+             },
+             {
+              "kind": "audio",
+              "name": "12 Трек12",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__12-12.mp3",
+              "size_mb": 2.1
+             },
+             {
+              "kind": "audio",
+              "name": "13 Трек13",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__13-13.mp3",
+              "size_mb": 0.8
+             },
+             {
+              "kind": "audio",
+              "name": "14 Трек14",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__14-14.mp3",
+              "size_mb": 1.3
+             },
+             {
+              "kind": "audio",
+              "name": "15 Трек15",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__15-15.mp3",
+              "size_mb": 0.9
+             },
+             {
+              "kind": "audio",
+              "name": "16 Трек16",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__16-16.mp3",
+              "size_mb": 1.6
+             },
+             {
+              "kind": "audio",
+              "name": "17 Трек17",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__17-17.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "18 Трек18",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__18-18.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "19 Трек19",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__19-19.mp3",
+              "size_mb": 1.9
+             },
+             {
+              "kind": "audio",
+              "name": "20 Трек20",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__20-20.mp3",
+              "size_mb": 1.7
+             },
+             {
+              "kind": "audio",
+              "name": "21 Трек21",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__21-21.mp3",
+              "size_mb": 2.4
+             },
+             {
+              "kind": "audio",
+              "name": "22 Трек22",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__22-22.mp3",
+              "size_mb": 0.8
+             },
+             {
+              "kind": "audio",
+              "name": "23 Трек23",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__23-23.mp3",
+              "size_mb": 1.2
+             },
+             {
+              "kind": "audio",
+              "name": "24 Трек24",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__24-24.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "25 Трек25",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__25-25.mp3",
+              "size_mb": 1.7
+             },
+             {
+              "kind": "audio",
+              "name": "26 Трек26",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__26-26.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "27 Трек27",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__27-27.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "28 Трек28",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__28-28.mp3",
+              "size_mb": 2.1
+             },
+             {
+              "kind": "audio",
+              "name": "29 Трек29",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__29-29.mp3",
+              "size_mb": 1.9
+             },
+             {
+              "kind": "audio",
+              "name": "30 Трек30",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__30-30.mp3",
+              "size_mb": 1.7
+             },
+             {
+              "kind": "audio",
+              "name": "31 Трек31",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__31-31.mp3",
+              "size_mb": 1.9
+             },
+             {
+              "kind": "audio",
+              "name": "32 Трек32",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__32-32.mp3",
+              "size_mb": 2.8
+             },
+             {
+              "kind": "audio",
+              "name": "33 Трек33",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__33-33.mp3",
+              "size_mb": 1.0
+             },
+             {
+              "kind": "audio",
+              "name": "34 Трек34",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__34-34.mp3",
+              "size_mb": 1.6
+             },
+             {
+              "kind": "audio",
+              "name": "35 Трек35",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__35-35.mp3",
+              "size_mb": 1.7
+             },
+             {
+              "kind": "audio",
+              "name": "36 Трек36",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__36-36.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "37 Трек37",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__37-37.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "38 Трек38",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__38-38.mp3",
+              "size_mb": 1.8
+             },
+             {
+              "kind": "audio",
+              "name": "39 Трек39",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__39-39.mp3",
+              "size_mb": 1.9
+             },
+             {
+              "kind": "audio",
+              "name": "40 Трек40",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__40-40.mp3",
+              "size_mb": 1.0
+             },
+             {
+              "kind": "audio",
+              "name": "41 Трек41",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__41-41.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "42 Трек42",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__42-42.mp3",
+              "size_mb": 1.5
+             },
+             {
+              "kind": "audio",
+              "name": "43 Трек43",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__43-43.mp3",
+              "size_mb": 2.2
+             },
+             {
+              "kind": "audio",
+              "name": "44 Трек44",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__44-44.mp3",
+              "size_mb": 0.8
+             },
+             {
+              "kind": "audio",
+              "name": "45 Трек45",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__45-45.mp3",
+              "size_mb": 1.1
+             },
+             {
+              "kind": "audio",
+              "name": "46 Трек46",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__46-46.mp3",
+              "size_mb": 0.8
+             },
+             {
+              "kind": "audio",
+              "name": "47 Трек47",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__47-47.mp3",
+              "size_mb": 1.7
+             },
+             {
+              "kind": "audio",
+              "name": "48 Трек48",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__48-48.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "49 Трек49",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__49-49.mp3",
+              "size_mb": 0.9
+             },
+             {
+              "kind": "audio",
+              "name": "50 Трек50",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__50-50.mp3",
+              "size_mb": 3.3
+             },
+             {
+              "kind": "audio",
+              "name": "51 Трек51",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__51-51.mp3",
+              "size_mb": 1.2
+             },
+             {
+              "kind": "audio",
+              "name": "52 Трек52",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__52-52.mp3",
+              "size_mb": 1.0
+             },
+             {
+              "kind": "audio",
+              "name": "53 Трек53",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__53-53.mp3",
+              "size_mb": 2.5
+             },
+             {
+              "kind": "audio",
+              "name": "54 Трек54",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__54-54.mp3",
+              "size_mb": 3.4
+             },
+             {
+              "kind": "audio",
+              "name": "55 Трек55",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__55-55.mp3",
+              "size_mb": 0.9
+             },
+             {
+              "kind": "audio",
+              "name": "56 Трек56",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__56-56.mp3",
+              "size_mb": 1.3
+             },
+             {
+              "kind": "audio",
+              "name": "57 Трек57",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__57-57.mp3",
+              "size_mb": 1.2
+             },
+             {
+              "kind": "audio",
+              "name": "58 Трек58",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__58-58.mp3",
+              "size_mb": 1.0
+             },
+             {
+              "kind": "audio",
+              "name": "59 Трек59",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__59-59.mp3",
+              "size_mb": 1.8
+             },
+             {
+              "kind": "audio",
+              "name": "60 Трек60",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__60-60.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "61 Трек61",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__61-61.mp3",
+              "size_mb": 0.4
+             },
+             {
+              "kind": "audio",
+              "name": "62 Трек62",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__62-62.mp3",
+              "size_mb": 1.7
+             },
+             {
+              "kind": "audio",
+              "name": "63 Трек63",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__63-63.mp3",
+              "size_mb": 1.9
+             },
+             {
+              "kind": "audio",
+              "name": "64 Трек64",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__64-64.mp3",
+              "size_mb": 2.7
+             },
+             {
+              "kind": "audio",
+              "name": "65 Трек65",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__65-65.mp3",
+              "size_mb": 1.0
+             },
+             {
+              "kind": "audio",
+              "name": "66 Трек66",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__66-66.mp3",
+              "size_mb": 1.4
+             },
+             {
+              "kind": "audio",
+              "name": "67 Трек67",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__67-67.mp3",
+              "size_mb": 2.3
+             },
+             {
+              "kind": "audio",
+              "name": "68 Трек68",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__68-68.mp3",
+              "size_mb": 0.5
+             },
+             {
+              "kind": "audio",
+              "name": "69 Трек69",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__69-69.mp3",
+              "size_mb": 0.6
+             },
+             {
+              "kind": "audio",
+              "name": "70 Трек70",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__70-70.mp3",
+              "size_mb": 2.9
+             },
+             {
+              "kind": "audio",
+              "name": "71 Трек71",
+              "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__CD2__71-71.mp3",
+              "size_mb": 2.7
+             }
+            ]
+           },
+           {
+            "kind": "document",
+            "name": "Macmillan Downloads",
+            "url": "https://venusedu2021-pixel.github.io/venus-edu-materials/docs/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__Macmillan-Downloads.url",
+            "size_mb": 0.0,
+            "inline": true
+           },
+           {
+            "kind": "document",
+            "name": "Readme-www.frenglish.ru",
+            "url": "https://venusedu2021-pixel.github.io/venus-edu-materials/docs/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__Readme-www.frenglish.ru.txt",
+            "size_mb": 0.0,
+            "inline": true
+           },
+           {
+            "kind": "document",
+            "name": "Say thank",
+            "url": "https://venusedu2021-pixel.github.io/venus-edu-materials/docs/English-worlds-1__Audios__English_World_1_Class_Audio_www.frenglish.ru__Say-thank.url",
+            "size_mb": 0.0,
+            "inline": true
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "kind": "folder",
+        "name": "PDFs",
+        "password_hash": null,
+        "cover_url": null,
+        "children": [
+         {
+          "kind": "document",
+          "name": "english-world-1-grammar-practice-book_compress",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__PDFs__english-world-1-grammar-practice-book_compress.pdf",
+          "size_mb": 23.1,
+          "inline": false
+         },
+         {
+          "kind": "document",
+          "name": "english-world-1-pupils-book_compress",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__PDFs__english-world-1-pupils-book_compress.pdf",
+          "size_mb": 92.9,
+          "inline": false
+         },
+         {
+          "kind": "document",
+          "name": "english-world-1-workbook_compress",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__PDFs__english-world-1-workbook_compress.pdf",
+          "size_mb": 42.5,
+          "inline": false
+         },
+         {
+          "kind": "photo",
+          "name": "photo_2026-08-31_16-16-33",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__PDFs__photo_2026-08-31_16-16-33.jpg",
+          "size_mb": 0.2
+         },
+         {
+          "kind": "document",
+          "name": "qdoc.tips_english-world-1-dictionary",
+          "url": "https://venusedu2021-pixel.github.io/venus-edu-materials/docs/English-worlds-1__PDFs__qdoc.tips_english-world-1-dictionary.pdf",
+          "size_mb": 1.6,
+          "inline": true
+         }
+        ]
+       },
+       {
+        "kind": "folder",
+        "name": "Teachers",
+        "password_hash": null,
+        "cover_url": null,
+        "children": [
+         {
+          "kind": "document",
+          "name": "toaz_info_english_world_1_teacherx27s_book_pr_7996c4c05600d0263616479cae50ff71",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-1__Teachers__toaz_info_english_world_1_teacherx27s_book_pr_7996c4c05600d0263616479cae50ff71.pdf",
+          "size_mb": 46.8,
+          "inline": false
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "kind": "folder",
+      "name": "English worlds 2",
+      "password_hash": null,
+      "cover_url": null,
+      "children": [
+       {
+        "kind": "folder",
+        "name": "Audio",
+        "password_hash": null,
+        "cover_url": null,
+        "children": [
+         {
+          "kind": "document",
+          "name": "Macmillan English World 2 Class CDs",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-2__Audio__Macmillan-English-World-2-Class-CDs.rar",
+          "size_mb": 140.8,
+          "inline": false
+         }
+        ]
+       },
+       {
+        "kind": "folder",
+        "name": "PDFs",
+        "password_hash": null,
+        "cover_url": null,
+        "children": [
+         {
+          "kind": "document",
+          "name": "English World 2 Grammar Practice Book",
+          "url": "https://venusedu2021-pixel.github.io/venus-edu-materials/docs/English-worlds-2__PDFs__English-World-2-Grammar-Practice-Book.pdf",
+          "size_mb": 17.3,
+          "inline": true
+         },
+         {
+          "kind": "document",
+          "name": "English World 2 Pupil s Book",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-2__PDFs__English-World-2-Pupil-s-Book.pdf",
+          "size_mb": 141.5,
+          "inline": false
+         },
+         {
+          "kind": "document",
+          "name": "Macmillan English World 2 Work Book",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-2__PDFs__Macmillan-English-World-2-Work-Book.pdf",
+          "size_mb": 207.7,
+          "inline": false
+         }
+        ]
+       },
+       {
+        "kind": "photo",
+        "name": "photo_2026-08-31_16-15-40",
+        "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-2__photo_2026-08-31_16-15-40.jpg",
+        "size_mb": 0.2
+       }
+      ]
+     },
+     {
+      "kind": "folder",
+      "name": "English worlds 3",
+      "password_hash": null,
+      "cover_url": null,
+      "children": [
+       {
+        "kind": "folder",
+        "name": "Audios",
+        "password_hash": null,
+        "cover_url": null,
+        "children": [
+         {
+          "kind": "document",
+          "name": "English World 3 Class CDs",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-3__Audios__English-World-3-Class-CDs.rar",
+          "size_mb": 148.9,
+          "inline": false
+         }
+        ]
+       },
+       {
+        "kind": "folder",
+        "name": "PDFs",
+        "password_hash": null,
+        "cover_url": null,
+        "children": [
+         {
+          "kind": "document",
+          "name": "English World 3 Grammar Practice Book",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-3__PDFs__English-World-3-Grammar-Practice-Book.pdf",
+          "size_mb": 23.1,
+          "inline": false
+         },
+         {
+          "kind": "document",
+          "name": "English World 3 Pupil s Book",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-3__PDFs__English-World-3-Pupil-s-Book.pdf",
+          "size_mb": 79.1,
+          "inline": false
+         },
+         {
+          "kind": "document",
+          "name": "English World 3 Tests_Key_",
+          "url": "https://venusedu2021-pixel.github.io/venus-edu-materials/docs/English-worlds-3__PDFs__English-World-3-Tests_Key_.pdf",
+          "size_mb": 3.3,
+          "inline": true
+         },
+         {
+          "kind": "document",
+          "name": "English World 3 Work Book",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-3__PDFs__English-World-3-Work-Book.pdf",
+          "size_mb": 71.4,
+          "inline": false
+         }
+        ]
+       },
+       {
+        "kind": "photo",
+        "name": "photo_2026-08-31_16-20-43",
+        "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-3__photo_2026-08-31_16-20-43.jpg",
+        "size_mb": 0.2
+       }
+      ]
+     },
+     {
+      "kind": "folder",
+      "name": "English worlds 4",
+      "password_hash": null,
+      "cover_url": null,
+      "children": [
+       {
+        "kind": "folder",
+        "name": "Audios",
+        "password_hash": null,
+        "cover_url": null,
+        "children": [
+         {
+          "kind": "document",
+          "name": "English World 4 Class CDs",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-4__Audios__English-World-4-Class-CDs.rar",
+          "size_mb": 172.5,
+          "inline": false
+         }
+        ]
+       },
+       {
+        "kind": "folder",
+        "name": "PDFs",
+        "password_hash": null,
+        "cover_url": null,
+        "children": [
+         {
+          "kind": "document",
+          "name": "English World 4 Grammar Practice Book",
+          "url": "https://venusedu2021-pixel.github.io/venus-edu-materials/docs/English-worlds-4__PDFs__English-World-4-Grammar-Practice-Book.pdf",
+          "size_mb": 11.7,
+          "inline": true
+         },
+         {
+          "kind": "document",
+          "name": "English World 4 Pupil s Book",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-4__PDFs__English-World-4-Pupil-s-Book.pdf",
+          "size_mb": 32.8,
+          "inline": false
+         },
+         {
+          "kind": "document",
+          "name": "English World 4 Tests with Answers",
+          "url": "https://venusedu2021-pixel.github.io/venus-edu-materials/docs/English-worlds-4__PDFs__English-World-4-Tests-with-Answers.pdf",
+          "size_mb": 4.2,
+          "inline": true
+         },
+         {
+          "kind": "document",
+          "name": "English World 4 Work Book",
+          "url": "https://github.com/venusedu2021-pixel/venus-edu-materials/releases/download/starters/English-worlds-4__PDFs__English-World-4-Work-Book.pdf",
+          "size_mb": 29.0,
+          "inline": false
+         }
+        ]
+       }
+      ]
+     }
+    ]
    }
   ]
  }
